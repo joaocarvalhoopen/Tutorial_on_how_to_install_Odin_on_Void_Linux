@@ -84,5 +84,5 @@ code .
 And now have lots of fun programming in Odin!
 
 ## Have fun!
-Best regards,
+Best regards, <br>
 João Carvalho
